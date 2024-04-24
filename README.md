@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi!+👋;+I'm+Piyumal+Madhuwantha!;&color=%23FFFFFF" />
-  <div align="right"> <img src="https://komarev.com/ghpvc/?username=piyumal2105&label=Profile%20views&color=0e75b6&style=flat" /> </div>
+  
 </h1>
 
 
