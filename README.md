@@ -14,7 +14,7 @@
 
 <div align="center">
  
-💻 I’m currently working on **a Software Company**
+💻 I’m open to work as **a Software Engineer**
 
 🌱 I’m currently learning **Flutter, AL, ML, Python**
 
